@@ -1,12 +1,12 @@
 # 🎨 Your Text, Your Style – AI Presentation Generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://smart-ppt-generator.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://smartpptgenerator-ypbfns6e9fg4bwsz9vrzda.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
 
 A publicly accessible web application that converts bulk text, markdown, or prose into fully formatted PowerPoint presentations. It intelligently analyzes content using Large Language Models (LLMs) and applies the visual style, layouts, and assets from a user-uploaded template.
 
-**[🔴 CLICK HERE FOR LIVE DEMO](https://smart-ppt-generator.streamlit.app/)**
+**[🔴 CLICK HERE FOR LIVE DEMO](https://smartpptgenerator-ypbfns6e9fg4bwsz9vrzda.streamlit.app/)**
 
 ---
 
