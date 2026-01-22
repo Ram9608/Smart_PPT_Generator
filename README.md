@@ -6,7 +6,7 @@
 
 A publicly accessible web application that converts bulk text, markdown, or prose into fully formatted PowerPoint presentations. It intelligently analyzes content using Large Language Models (LLMs) and applies the visual style, layouts, and assets from a user-uploaded template.
 
-**[View Live Demo](https://smart-ppt-generator.streamlit.app/)**
+**[🔴 CLICK HERE FOR LIVE DEMO](https://smart-ppt-generator.streamlit.app/)**
 
 ---
 
