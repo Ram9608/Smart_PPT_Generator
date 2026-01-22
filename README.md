@@ -1,9 +1,12 @@
 # 📊 Your Text, Your Style – AI Presentation Generator
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://smart-ppt-generator.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Frontend-Streamlit-FF4B4B)
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
+
+> **🔴 Live Demo:** [Click here to try the App](https://smart-ppt-generator.streamlit.app/) *(Note: Requires deployment)*
 
 A professional, AI-powered tool that transforms raw text, articles, or notes into fully formatted PowerPoint presentations. Unlike generic generators, this tool **respects your brand** by using your own uploaded `.pptx` template to style specific layouts, fonts, and colors.
 
@@ -90,8 +93,8 @@ smart_ppt_generator/
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/your-username/smart-ppt-generator.git
-    cd smart_ppt_generator
+    git clone https://github.com/Ram9608/Smart_PPT_Generator.git
+    cd Smart_PPT_Generator
     ```
 
 2.  **Create a Virtual Environment**
