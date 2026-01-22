@@ -8,7 +8,9 @@
 
 > **🔴 Live Demo:** [Click here to try the App](https://smart-ppt-generator.streamlit.app/) *(Note: Requires deployment)*
 
-A professional, AI-powered tool that transforms raw text, articles, or notes into fully formatted PowerPoint presentations. Unlike generic generators, this tool **respects your brand** by using your own uploaded `.pptx` template to style specific layouts, fonts, and colors.
+A publicly accessible web application that converts bulk text, markdown, or prose into fully formatted PowerPoint presentations. It intelligently analyzes content using Large Language Models (LLMs) and applies the visual style, layouts, and assets from a user-uploaded template.
+
+Unlike generic generators, this tool **respects your brand** by using your own uploaded `.pptx` template to style specific layouts, fonts, and colors.
 
 ---
 
