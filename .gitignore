@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Streamlit
+.streamlit/
+secrets.toml
+
+# Project Specific
+*.pptx
+*.potx
+!test_template.pptx
+# Keep the test template if we want, but generally ignore generated output
+generated_deck.pptx
+generated_presentation.pptx
+functional_test_output.pptx
+create_test_template.py
+
+# OS
+.DS_Store
+Thumbs.db
